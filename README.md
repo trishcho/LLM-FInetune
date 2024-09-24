@@ -21,17 +21,15 @@ codertrish/Llama-2-7b-chat-finetune.
 ### Model Overview
 
 Pre-trained Model
-The model that was fine-tuned is based on
 
 Base model: NousResearch/Llama-2-7b-chat-hf
 
 Dataset used for fine-tuning: mlabonne/guanaco-llama2-1k
 
 
-Fine-tuned Model
-The fine-tuned model is available as:
+Fine-tuned model name:
 
-Fine-tuned model name: codertrish/Llama-2-7b-chat-finetune
+codertrish/Llama-2-7b-chat-finetune
 
 ### Loading the Model
 To load the fine-tuned model and tokenizer:
