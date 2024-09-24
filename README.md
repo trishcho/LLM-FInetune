@@ -9,7 +9,6 @@
 
 
 
-
 This repository contains the fine-tuned version of the LLaMA-2 7B Chat model using the timdettmers/openassistant-guanaco dataset. 
 
 The model has been fine-tuned using the LoRA (Low-Rank Adaptation) technique to optimize performance while maintaining lower memory and computational requirements. 
@@ -20,9 +19,9 @@ codertrish/Llama-2-7b-chat-finetune.
 
 ### Model Overview
 
-Pre-trained Model
+Pre-trained Model(Base model) :
 
-Base model: NousResearch/Llama-2-7b-chat-hf
+NousResearch/Llama-2-7b-chat-hf
 
 Dataset used for fine-tuning: mlabonne/guanaco-llama2-1k
 
@@ -42,4 +41,5 @@ model = AutoModelForCausalLM.from_pretrained("codertrish/Llama-2-7b-chat-finetun
 
 ### Acknowledgments
 Dataset: timdettmers/openassistant-guanaco
+
 Hugging Face model: codertrish/Llama-2-7b-chat-finetune
