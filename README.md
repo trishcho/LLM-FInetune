@@ -24,6 +24,7 @@ Pre-trained Model
 The model that was fine-tuned is based on
 
 Base model: NousResearch/Llama-2-7b-chat-hf
+
 Dataset used for fine-tuning: mlabonne/guanaco-llama2-1k
 
 
