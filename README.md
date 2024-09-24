@@ -15,7 +15,7 @@ The model has been fine-tuned using the LoRA (Low-Rank Adaptation) technique to 
 
 ### The fine-tuned model is stored in the Hugging Face repository 
 
-codertrish/Llama-2-7b-chat-finetune.
+codertrish/Llama-2-7b-chat-finetune
 
 ### Model Overview
 
